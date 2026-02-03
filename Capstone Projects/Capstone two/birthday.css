@@ -1,0 +1,21 @@
+body{
+    background-color: #F075AE;
+}
+div{
+    margin: 0px;
+}
+.header{
+    color: #F7DB91;
+    display: inline-block;
+    width: 48%;
+    padding: 5px;
+    border-radius: 10px;
+}
+.main{
+    background-color: #9BC264;
+    display: inline-block;
+    width: 48%;
+    padding: 5px;
+    border-radius: 10px;
+    height: 400px;
+}

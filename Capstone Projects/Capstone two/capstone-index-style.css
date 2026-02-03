@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: rgb(108, 166, 81);
+}
+header{
+    background-color: rgb(107, 116, 69);
+    height: auto;
+    text-align: center;
+    padding: 10px;
+    display: block;
+    border-radius: 10px;
+}
+main{
+    margin-top: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(107, 116, 69);
+    color: rgb(187, 203, 46);
+}
+footer{
+    margin-top: 5px;
+    background-color: rgb(107, 116, 69);
+    border-radius: 10px;
+    height: 50px;
+    padding: 10px;
+}
+.topick{
+    font-family: "Caveat", cursive;
+    color: rgb(187, 203, 46);
+    font-size: 80px;
+}
+
+.reagent{
+    color: rgb(187, 203, 46);
+    font-family: "Caveat", cursive;
+}
+a{
+    text-decoration: none;
+    color: rgb(187, 203, 46);
+}
+#me{
+    text-align: center;
+}
+#fimg{
+    border-radius: 10px;
+}
+div{
+    display: inline-block;
+    width: 350px;
+    padding: 10px;
+    margin: 6px;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: #839705;
+}
+#firsth{
+    text-align: center;
+}
